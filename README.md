@@ -6,10 +6,10 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: ☕️ Java 🐹 Go 🦀 Rust
+- **Languages**: ☕️ Java 
 - **Frameworks**: 🌱 Spring Boot  🐾 MyBatis  📦 Dubbo  📡 Kafka
 - **Tools**: 🧠 Redis 🐬 MySQL 🐇 RabbitMQ 🐳 Docker ☸️ Kubernetes
-- **Others**: 🧰 Git 🧪 Maven 🐧 Linux 🔧 Jenkins 🌐 Nginx
+- **Others**: 🧪 Maven 🐧 Linux 🔧 Jenkins 🌐 Nginx
 
 ## 📫 How to reach me
 
