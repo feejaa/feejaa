@@ -1,22 +1,37 @@
-# 👋 Hi, I'm 王飞 (Wang Fei)
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/feejaa/feejaa/blob/main/0.gif" width="200"/>
+    </td>
+    <td>
 
-## 🚀 About Me
-- 👨‍💻 Java backend development  
-- 🛍️ Actively involved in e-commerce system design, with expertise in inventory, order, and payment modules  
-- ⭐️ I wanted to create something interesting.
+<!-- 右侧文字内容 -->
+<h1>👋 Hi, I'm 王飞 (Wang Fei)</h1>
 
-## 🛠️ Tech Stack
+<h2>🚀 About Me</h2>
 
-- **Languages**: ☕️ Java, 🐹 Go, 🦀 Rust
-- **Frameworks**: 🌱 Spring Boot  🐾 MyBatis  📦 Dubbo  📡 Kafka
-- **Tools**: 🧠 Redis 🐬 MySQL 🐇 RabbitMQ 🐳 Docker ☸️ Kubernetes
-- **Others**: 🧰 Git 🧪 Maven 🐧 Linux 🔧 Jenkins 🌐 Nginx
+<ul>
+  <li>👨‍💻 Java backend development</li>
+  <li>🛍️ Actively involved in e-commerce system design, with expertise in inventory, order, and payment modules</li>
+  <li>⭐️ I wanted to create something interesting.</li>
+</ul>
 
-## 📫 How to reach me
+<h2>🛠️ Tech Stack</h2>
 
-- Email: wffeejaa@google.com
-- Blog: [我的blog](https://feejaa.github.io/)
+<ul>
+  <li><strong>Languages</strong>: ☕️ Java 🐹 Go 🦀 Rust</li>
+  <li><strong>Frameworks</strong>: 🌱 Spring Boot 🐾 MyBatis 📦 Dubbo 📡 Kafka</li>
+  <li><strong>Tools</strong>: 🧠 Redis 🐬 MySQL 🐇 RabbitMQ 🐳 Docker ☸️ Kubernetes</li>
+  <li><strong>Others</strong>: 🧰 Git 🧪 Maven 🐧 Linux 🔧 Jenkins 🌐 Nginx</li>
+</ul>
 
----
+<h2>📫 How to reach me</h2>
 
-<img src="https://github.com/feejaa/feejaa/blob/main/0.gif" width="200"/>
+<ul>
+  <li>Email: wffeejaa@google.com</li>
+  <li>Blog: <a href="https://feejaa.github.io/">我的blog</a></li>
+</ul>
+
+    </td>
+  </tr>
+</table>
