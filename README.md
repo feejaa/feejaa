@@ -19,4 +19,4 @@
 
 ---
 
-![image](https://github.com/user-attachments/assets/26ebd9d5-b61c-46d3-a687-f43be10bcbb4)
+<img src="https://github.com/feejaa/feejaa/blob/main/0.gif" width="200"/>
