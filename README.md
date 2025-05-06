@@ -13,5 +13,5 @@
 
 ## 📫 How to reach me
 
-- 📮 wffeejaa@google.com
+-  wffeejaa@google.com
 - [Blog](https://feejaa.github.io/)
