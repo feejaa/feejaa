@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm 王飞 (Wang Fei)
 
-<!--
-**feejaa/feejaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Java后端开发工程师 | 微服务架构 | 分布式事务 | 高并发处理
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages**: Java, SQL, Shell
+- **Frameworks**: Spring Boot, MyBatis, Dubbo, Kafka
+- **Tools**: Redis, MySQL, RabbitMQ, Docker, K8s
+- **Others**: Git, Maven, Linux, Jenkins, Nginx
+
+## 📫 How to reach me
+
+- Email: wffeejaa@google.com
+- Blog: [我的blog](https://feejaa.github.io/)
+
+---
+
+⭐️ 欢迎关注、交流与合作！
