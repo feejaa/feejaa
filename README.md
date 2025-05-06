@@ -1,11 +1,9 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/feejaa/feejaa/blob/main/0.gif" width="200"/>
-    </td>
-    <td>
+<div align="left">
+  <table>
+    <tr>
+      <td>
 
-<!-- 右侧文字内容 -->
+<!-- 左侧：个人介绍内容 -->
 <h1>👋 Hi, I'm 王飞 (Wang Fei)</h1>
 
 <h2>🚀 About Me</h2>
@@ -32,6 +30,12 @@
   <li>Blog: <a href="https://feejaa.github.io/">我的blog</a></li>
 </ul>
 
-    </td>
-  </tr>
-</table>
+      </td>
+
+<!-- 右侧：GIF 图 -->
+      <td>
+        <img src="https://github.com/feejaa/feejaa/blob/main/0.gif" width="200"/>
+      </td>
+    </tr>
+  </table>
+</div>
