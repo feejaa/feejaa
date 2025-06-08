@@ -1,7 +1,7 @@
 # 👋 Hi, I'm 王飞 (Wang Fei)
 
 ## 🚀 About Me
-- 👨‍💻 Backend developer with 4 years of experience
+- 👨‍💻 Backend developer with 5 years of experience
 - 🧩 Focused on building robust microservices using Java and Spring Boot
 - ⭐️ Passionate about creating something interesting and meaningful
 
@@ -26,8 +26,6 @@
 
 [![Email](https://img.shields.io/badge/Email-wffeejaa%40google.com-blue?style=flat-square&logo=gmail)](mailto:wffeejaa@google.com)
 [![Blog](https://img.shields.io/badge/Blog-feejaa.github.io-brightgreen?style=flat-square&logo=githubpages)](https://feejaa.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-feejaa-181717?style=flat-square&logo=github)](https://github.com/feejaa)
-
 ---
 
 <!-- Footer is optional -->
